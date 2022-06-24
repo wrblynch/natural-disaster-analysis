@@ -1,6 +1,6 @@
 # Data Analysis on the Relationship Between Natural Disasters and Housing Prices
 ---
-[Link to the full project](NatDisaster_Analysis.ipynb) ^May say too large to load, simply refresh^
+[Link to the full project](NatDisaster_Analysis.ipynb) <sub><sup>May say too large to load, simply refresh</sup></sub>
 ---
 ## Overview 
 
